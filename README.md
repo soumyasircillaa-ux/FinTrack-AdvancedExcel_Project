@@ -1,13 +1,11 @@
 #📊 FinTrack-AdvancedExcel_Project
 
-## 📌 Project Overview
 
-This project analyzes financial sales data using Excel for data cleaning/calculations and Google Looker Studio for dashboard reporting.
+## 📌 Project Overview 
 
-Overview 
 This project focuses on analyzing FinTrack sales performance across multiple countries, products, customer segments, and discount bands to understand key profit drivers.
 The objective is to identify growth opportunities, improve pricing and discount strategies, and increase the overall profit margin from 14.2% to 18%.
-The analysis provides actionable insights through dashboards and reports to support better business decisions and sustainable growth.
+The analysis provides actionable insights through dashboards and reports to support better business decisions and sustainable growth
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
