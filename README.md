@@ -63,6 +63,7 @@ The analysis provides actionable insights through dashboards and reports to supp
 
 * Fintrack_Dashboard.pdf
 * fintrack_excel_project.ods
+* https://datastudio.google.com/reporting/ca1d3494-ee08-490a-a733-f83f7d8a382d
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Author
