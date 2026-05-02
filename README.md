@@ -1,5 +1,8 @@
 #📊 FinTrack-AdvancedExcel_Project
 
+## Dashboard 
+
+<img width="986" height="744" alt="Fintrack_Dashboard" src="https://github.com/user-attachments/assets/dc7e725a-38fc-4a95-9fa3-da191fe19ca7" />
 
 ## 📌 Project Overview 
 
