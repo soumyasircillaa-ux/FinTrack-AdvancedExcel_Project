@@ -34,7 +34,7 @@ The analysis provides actionable insights through dashboards and reports to supp
 ## Project Workflow
 1. Data Collection: Imported raw FinTrack data into Excel.
 2. Data Cleaning: Removed duplicates, fixed data types, and standardized product names.
-3. Created calculated columns: Sales, Profit, Month & Year
+3. Created calculated columns: Sales, Profit, Discounts, Profit Margins, Year and Month
 4. Pivot Analysis: Created summaries for sales, quantity, rating, and customer types.
 5. Dashboard Design: Built a visual dashboard with filters and dynamic charts.
 
